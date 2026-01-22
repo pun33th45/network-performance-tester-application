@@ -26,7 +26,7 @@ It enables engineers to configure tests, execute real backend commands, and anal
 
 ## 🖥️ Application UI Dashboard
 
-![Application UI Dashboard](./screenshots/Application%20UI%20dashboard.png)
+![Application UI Dashboard](application screenshots/Application UI dashboard.png)
 
 *Central dashboard providing real-time visibility into network performance, including throughput trends, key metrics, and live backend system output.*
 
