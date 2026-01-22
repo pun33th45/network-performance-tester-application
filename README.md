@@ -26,7 +26,7 @@ It enables engineers to configure tests, execute real backend commands, and anal
 
 ## 🖥️ Application UI Dashboard
 
-![Application UI Dashboard](application screenshots/Application UI dashboard.png)
+![Application UI Dashboard](https://github.com/pun33th45/network-performance-tester-application/blob/0913ba20a397f2e93ef03e8f7ab5888e330560d8/application%20screenshots/Application%20UI%20dashboard.png)
 
 *Central dashboard providing real-time visibility into network performance, including throughput trends, key metrics, and live backend system output.*
 
