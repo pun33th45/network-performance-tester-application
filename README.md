@@ -84,26 +84,6 @@ Graphs, Metrics & System Logs
 
 ---
 
-## 📦 Repository Structure
-
-iperf-gui/
-├── src/
-├── assets/
-├── extra_bin/ # iPerf binaries (tracked using Git LFS)
-├── screenshots/
-│ ├── Application UI dashboard.png
-│ ├── Parameter dashboard.png
-│ ├── TCP testing.png
-│ └── UDP testing.png
-├── README.md
-├── .gitattributes
-├── .gitignore
-
-
-> ⚠️ This repository uses **Git LFS** for large binaries.  
-> Run `git lfs install` before cloning the repository.
-
----
 
 ## 🎯 Learning Outcomes
 
