@@ -34,7 +34,7 @@ It enables engineers to configure tests, execute real backend commands, and anal
 
 ## ⚙️ Parameter Dashboard
 
-![Parameter Dashboard](./screenshots/Parameter%20dashboard.png)
+![Parameter Dashboard](https://github.com/pun33th45/network-performance-tester-application/blob/db98d2bb09127453f3549feeaf67e5f5646f019f/application%20screenshots/Parameter%20dashboard.png)
 
 *Configuration panel allowing users to define test parameters such as target server IP, protocol selection (TCP/UDP), test duration, parallel streams, and ping execution.*
 
@@ -42,7 +42,7 @@ It enables engineers to configure tests, execute real backend commands, and anal
 
 ## 🔁 TCP Testing
 
-![TCP Testing](./screenshots/TCP%20testing.png)
+![TCP Testing](https://github.com/pun33th45/network-performance-tester-application/blob/db98d2bb09127453f3549feeaf67e5f5646f019f/application%20screenshots/TCP%20testing.png)
 
 *TCP throughput testing with real-time bandwidth visualization, enabling accurate analysis of stable and high-throughput network links.*
 
@@ -50,7 +50,7 @@ It enables engineers to configure tests, execute real backend commands, and anal
 
 ## 📡 UDP Testing
 
-![UDP Testing](./screenshots/UDP%20testing.png)
+![UDP Testing](https://github.com/pun33th45/network-performance-tester-application/blob/db98d2bb09127453f3549feeaf67e5f5646f019f/application%20screenshots/UDP%20%20testing.png)
 
 *UDP performance testing showcasing throughput variation, jitter, and packet loss, supporting reliability analysis for wireless and latency-sensitive networks.*
 
